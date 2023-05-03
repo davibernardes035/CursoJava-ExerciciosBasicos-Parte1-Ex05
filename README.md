@@ -1,4 +1,4 @@
-# Curso Java Exercícios Básicos Parte1 - Exercício 02
+# Curso Java Exercícios Básicos Parte1 - Exercício 05
 ## Exercícios básicos feitos em Java para o Curso Java do Prof. Nélio Alves
 
 Fazer um programa para ler o código de uma peça 1, o número de peças 1, o valor unitário de cada peça 1, o 
